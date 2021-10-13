@@ -1,0 +1,15 @@
+.goal {
+  color: darkslategrey;
+}
+
+.jobs p {
+  font-style: italic;
+}
+
+.education li {
+  font-family: sans-serif;
+}
+
+.stress {
+  font-weight: bolder;
+}
